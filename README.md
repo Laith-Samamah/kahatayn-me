@@ -11,7 +11,7 @@
  
 
 
-## Organization [link]([https://trello.com/b/XWL1XPNl/charity-services-project](https://github.com/kahatayn/kahatayn))
+## Organization [link](https://trello.com/b/XWL1XPNl/charity-services-project](https://github.com/kahatayn/kahatayn)
 
 ## Trello [link](https://trello.com/b/XWL1XPNl/charity-services-project)
 
